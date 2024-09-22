@@ -1,0 +1,35 @@
+public: 모든 접근
+protected:
+default: 
+private: 클래스 내에서 접근 가능
+
+Static 변수: 정적 변수
+Static 메서드: 정적 메서드
+
+Final 변수: 
+Final 메서드: 
+Final 클래스: 
+
+abstract 클래스: 추상 클래스
+abstract 메서드: 추상 메서드
+
+interface: 객체가 어떤 행위할지
+abstract class: 추상 클래스
+
+extends: 상속
+implements:
+
+this: 같은 객체 2개 = 쓸때 사용
+super:
+
+오버로딩:
+오버라이딩:
+
+try:예외 처리 구문 맨 앞
+catch:예외 처리 구문 중간
+finally:예외 처리 구문 맨뒤
+
+
+
+
+
